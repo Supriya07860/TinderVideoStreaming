@@ -39,50 +39,38 @@ export default function App() {
       description: 'Another awesome moment #trending',
       likes: '890K'
     },
-    // { 
-    //   id: 3,
-    //   uri: 'https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8',
-    //   username: 'videomaker789',
-    //   description: 'Living my best life! #lifestyle',
-    //   likes: '2.1M'
-    // },
+   
      {
-     id: 4, 
+     id: 3, 
       uri: 'https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8',
       username: 'user123',
       description: 'Check out this cool video! #fun #viral',
       likes: '1.2M'
      },
     {
-      id: 5, 
+      id: 4, 
       uri: 'https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8',
       username: 'creator456',
       description: 'Another awesome moment #trending',
       likes: '890K'
     },
     {
-      id: 6,
+      id: 5,
       uri: 'https://d2zihajmogu5jn.cloudfront.net/bipbop-advanced/bipbop_16x9_variant.m3u8',
       username: 'fitness_freak',
       description: 'Push your limits! 💪 #fitness #motivation',
       likes: '2.7M'
     },
-    // {
-    //   id: 7,
-    //   uri: 'http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4',
-    //   username: 'creative_soul',
-    //   description: 'Art in motion 🎨 #creative #inspiration',
-    //   likes: '2.3M'
-    // },
+   
     {
-    id: 7,
+    id: 6,
     uri: 'https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8',
     username: 'foodie_101',
     description: 'Delicious recipes for everyone 🍳 #cooking #foodie',
     likes: '4.2M'
   },
   {
-    id: 8,
+    id: 7,
     uri: 'https://cdn.jwplayer.com/manifests/pZxWPRg4.m3u8',
     username: 'music_lover',
     description: 'Feel the rhythm 🎵 #music #vibes',
